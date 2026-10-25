@@ -69,9 +69,9 @@ Alice and Eve share deployment to GitHub Pages, testing on a few sample images a
 
 ## References
 
-- **[Simple Image Steganography in Python](https://medium.com/hackernoon/simple-image-steganography-in-python-18c7b534854f).** Andrew Scott, HackerNoon, 2018. Explains LSB embedding, why it needs lossless formats such as PNG and how to estimate the capacity of an image.
+- **[Simple Image Steganography in Python](https://hackernoon.com/simple-image-steganography-in-python-18c7b534854f).** Andrew Scott, HackerNoon, 2018. Explains LSB embedding, why it needs lossless formats such as PNG and how to estimate the capacity of an image.
 - **[Steganography: Hiding an image inside another](https://medium.com/data-science/steganography-hiding-an-image-inside-another-77ca66b2acb1).** Kelvin Salton do Prado, Towards Data Science, 2018. Hides a whole image in the low bits of another, which shows visually why changes to the low bits go unnoticed.
-- **[JavaScript Magic Tricks: Steganography](https://medium.com/@6465660/javascript-magic-tricks-steganography-a0f9330e5e0d).** LiwenWang, Medium, 2023. Implements LSB embedding in the browser with the HTML canvas, which is the approach our GitHub Pages demo uses.
+- **[Steganography: How to Hide Text in Images Using JavaScript](https://hackernoon.com/steganography-how-to-hide-text-in-images-using-javascript).** Andrii Romasiun, HackerNoon, 2024. Implements LSB embedding in the browser with the HTML canvas, which is the approach our GitHub Pages demo uses.
 
 ## License
 
